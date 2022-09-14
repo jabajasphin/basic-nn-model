@@ -44,7 +44,12 @@ Evaluate the model with the testing data.
 
 ## PROGRAM
 
-Include your code here
+```python 
+import numpy as np
+from tensorflow import keras
+
+
+```
 
 ## Dataset Information
 
@@ -52,9 +57,9 @@ Include screenshot of the dataset
 
 ## OUTPUT
 
-### Training Loss Vs Iteration Plot
+![MODEL](lossoutput.png)
 
-Include your plot here
+
 
 ### Test Data Root Mean Squared Error
 
